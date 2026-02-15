@@ -14,7 +14,7 @@ const CardStyle = (props) => {
           className='h-full w-full object-cover'
         />
 
-        <p className='absolute bottom-4 text-4xl text-black font-bold'>
+        <p className='absolute bottom-4 text-4xl text-red-900 tracking-wider font-bold'>
           {props.Name}
         </p>
 
